@@ -113,7 +113,7 @@ fn setup(mut commands: Commands, assets: Res<AssetServer>) {
                         },
                     ),
                     (
-                        Text("x & y offset ↘".to_string()),
+                        Text("x + y offset ↘".to_string()),
                         TextColor(Srgba::hex("232326").unwrap().into()),
                         TextFont {
                             font: fira.clone(),
