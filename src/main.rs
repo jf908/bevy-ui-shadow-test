@@ -38,7 +38,7 @@ fn setup(mut commands: Commands, assets: Res<AssetServer>) {
                         Text("TEXT SHADOW".to_string()),
                         TextShadow {
                             color: Srgba::hex("2b2c2f").unwrap().into(),
-                            offset: Vec2::new(6.0, 0.0),
+                            offset: Vec2::new(8.0, 0.0),
                         },
                         TextColor(Srgba::hex("ffc14d").unwrap().into()),
                         TextFont {
@@ -71,7 +71,7 @@ fn setup(mut commands: Commands, assets: Res<AssetServer>) {
                         Text("TEXT SHADOW".to_string()),
                         TextShadow {
                             color: Srgba::hex("ff6666").unwrap().into(),
-                            offset: Vec2::new(0.0, 6.0),
+                            offset: Vec2::new(0.0, 8.0),
                         },
                         TextFont {
                             font: baloo.clone(),
@@ -103,7 +103,7 @@ fn setup(mut commands: Commands, assets: Res<AssetServer>) {
                         Text("TEXT SHADOW".to_string()),
                         TextShadow {
                             color: Srgba::hex("b2b2b2").unwrap().into(),
-                            offset: Vec2::new(4.0, 4.0),
+                            offset: Vec2::new(6.0, 6.0),
                         },
                         TextColor(Srgba::hex("232326").unwrap().into()),
                         TextFont {
