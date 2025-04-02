@@ -2,4 +2,5 @@
 
 A demonstration of Bevy 0.16's new TextShadow component.
 
-![image](https://github.com/user-attachments/assets/187e3221-2689-4e14-9415-33b8b59ab4ee)
+![image](https://github.com/user-attachments/assets/81071c2d-dd59-4eb4-8780-9e85a38784ac)
+
